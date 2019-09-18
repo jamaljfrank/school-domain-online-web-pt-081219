@@ -18,3 +18,4 @@ def grade(grade)
   grade = student_grade
   
 end
+end
